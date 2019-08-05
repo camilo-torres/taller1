@@ -3,10 +3,8 @@ body {
   font-family: Tw Cen MT;
   color: purple;
   background-color: aqua }
-h2 {
+h1 {
     font-family: Impact;
+    text-align: center;
    }
-a:link {
-  color: blue }
-a:visited {
-  color: purple }
+
