@@ -1,13 +1,12 @@
-
-
-<?php
-
-header("Content-type: text/css");
-
-$color[0] = '#ff0000';
-$color[1] = '#00ff00';
-$color[2] = '#0000ff';
-
-$i = rand(0, 2);
-?>
-
+body {
+  padding-left: 11em;
+  font-family: Tw Cen MT;
+  color: purple;
+  background-color: aqua }
+h2 {
+    font-family: Impact;
+   }
+a:link {
+  color: blue }
+a:visited {
+  color: purple }
