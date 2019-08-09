@@ -5,9 +5,14 @@ body {
   color:white;
  }
 h1 {
+  background-color: black;
     font-family: Impact;
     text-align: center;
    }
 img{
   width:800 px;
+}
+div{
+  background-color: black;
+  color:white;
 }
