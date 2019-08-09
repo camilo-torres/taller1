@@ -1,22 +1,22 @@
-body::after {
+body {
   padding-left: 11em;
   font-family: Tw Cen MT;
   background-image: url("https://iphonea2.com/wp-content/uploads/2013/07/Traductor-codigo-Binario-iPhone.jpg");
-  opacity: 0.6;
-  color:white;
+   color:white;
  }
 h1 {
-  background-color: black;
+  background-color: white;
     font-family: Impact;
     text-align: center;
-    opacity: 1;
-    color: white;
+    opacity: 0.8;
+    color: black;
    }
 img{
+  border: wheat 27px solid;
   width:800 px;
 }
 div{
-  background-color: black;
-  color:white;
-  opacity: 1;
+  background-color: white;
+  color:black;
+  opacity: 0.8;
 }
